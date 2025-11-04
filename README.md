@@ -20,10 +20,8 @@ Full-stack app for searching and saving Unsplash images with OAuth authenticatio
 
 ### Demo Video
 
-<video controls width="720">
-  <source src="client/public/assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag. Watch on <a href="https://drive.google.com/file/d/1w3uBRfzOn94fN0ivLDVLnMzzbwv9gEEh/view?usp=drive_link">YouTube</a>.
-</video>
+🎥 [Watch demo video here](https://drive.google.com/file/d/1w3uBRfzOn94fN0ivLDVLnMzzbwv9gEEh/view?usp=drive_link)
+
 
 ## Setup Instructions
 
