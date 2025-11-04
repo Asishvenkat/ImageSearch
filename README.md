@@ -124,6 +124,34 @@ Frontend runs on: http://localhost:5173
 - **Frontend:** http://localhost:5173
 - **Backend API:** http://localhost:5000
 
+## Screenshots & Demo
+
+You can include screenshots and a short demo video in the repository so they render in this README. Recommended placement:
+
+- images: `client/public/assets/screenshots/` (six files named `screenshot1.png` ... `screenshot6.png`)
+- video: `client/public/assets/demo.mp4` (or host the video on YouTube and link it)
+
+Example Markdown to embed screenshots (will render on GitHub when files exist):
+
+```markdown
+### Screenshots
+
+| | |
+|---:|:---|
+| ![Screenshot 1](client/public/assets/screenshots/1.png) | ![Screenshot 2](client/public/assets/screenshots/2.png) |
+| ![Screenshot 3](client/public/assets/screenshots/3.png) | ![Screenshot 4](client/public/assets/screenshots/4.png) |
+| ![Screenshot 5](client/public/assets/screenshots/5.png) | ![Screenshot 6](client/public/assets/screenshots/6.png) |
+
+### Demo Video
+
+<video controls width="720">
+  <source src="client/public/assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag. Watch on <a href="https://drive.google.com/file/d/1w3uBRfzOn94fN0ivLDVLnMzzbwv9gEEh/view?usp=drive_link">YouTube</a>.
+</video>
+```
+
+
+
 ## API Endpoints
 
 ### Authentication
@@ -542,3 +570,37 @@ image-search-multi-select/
 ## License
 
 Educational / Sample Code
+
+## Screenshots & Demo
+
+You can include screenshots and a short demo video in the repository so they render in this README. Recommended placement:
+
+- images: `client/public/assets/screenshots/` (six files named `screenshot1.png` ... `screenshot6.png`)
+- video: `client/public/assets/demo.mp4` (or host the video on YouTube and link it)
+
+Example Markdown to embed screenshots (will render on GitHub when files exist):
+
+
+### Screenshots
+
+| | |
+|---:|:---|
+| ![Screenshot 1](client/public/assets/screenshots/1.png) | ![Screenshot 2](client/public/assets/screenshots/2.png) |
+| ![Screenshot 3](client/public/assets/screenshots/3.png) | ![Screenshot 4](client/public/assets/screenshots/4.png) |
+| ![Screenshot 5](client/public/assets/screenshots/5.png) | ![Screenshot 6](client/public/assets/screenshots/6.png) |
+
+### Demo Video
+
+<video controls width="720">
+  <source src="client/public/assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag. Watch on <a href="https://drive.google.com/file/d/1w3uBRfzOn94fN0ivLDVLnMzzbwv9gEEh/view?usp=drive_link">YouTube</a>.
+</video>
+
+
+Notes & tips:
+
+- If you prefer to keep the repo small, upload the demo to YouTube (or Vimeo) and replace the local `<video>` source with the public URL or an iframe embed.
+- On GitHub the `client/public` folder is served as static files when deployed — using that path makes local previews work in many setups. When previewing locally in Vite, copying assets to `public/` is the simplest.
+- After adding/modifying files in `client/public/assets/`, commit them and refresh GitHub to see the images render in the README.
+
+If you want, I can create the `client/public/assets/screenshots/` folder and add placeholder images and a placeholder video link for you to replace with real media. Tell me whether you want placeholders created or if you'll add your own files.
