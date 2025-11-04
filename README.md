@@ -14,9 +14,9 @@ Full-stack app for searching and saving Unsplash images with OAuth authenticatio
 
 | | |
 |---:|:---|
-| ![Screenshot 1](client/public/assets/screenshots/1.png) | ![Screenshot 2](client/public/assets/screenshots/2.png) |
-| ![Screenshot 3](client/public/assets/screenshots/3.png) | ![Screenshot 4](client/public/assets/screenshots/4.png) |
-| ![Screenshot 5](client/public/assets/screenshots/5.png) | ![Screenshot 6](client/public/assets/screenshots/6.png) |
+| ![Screenshot 1](https://drive.google.com/uc?export=download&id=1bOVIjCArN8cA1NkSmXQMBC4ER0z97pp3) | ![Screenshot 2](https://drive.google.com/uc?export=download&id=1RDWt8ucHvRRagf_DF2TEPTD17sHC-szu) |
+| ![Screenshot 3](https://drive.google.com/uc?export=download&id=10JA8wsmlW2F_d3BuIlBD6DnLPLS0E2CZ) | ![Screenshot 4](https://drive.google.com/uc?export=download&id=1vWK9odYN6lUNkVym2FXTJisqjnJ8ybmT) |
+| ![Screenshot 5](https://drive.google.com/uc?export=download&id=13BQiJuxj3zS4cp0K0L5aejFu4mXWLDlc) | ![Screenshot 6](https://drive.google.com/uc?export=download&id=14bvuqprwCBV6Zx8xFwq3UFTr_Idftf3d) |
 
 ### Demo Video
 
