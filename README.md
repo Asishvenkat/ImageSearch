@@ -146,22 +146,7 @@ You can include screenshots and a short demo video in the repository so they ren
 
 Example Markdown to embed screenshots (will render on GitHub when files exist):
 
-```markdown
-### Screenshots
 
-| | |
-|---:|:---|
-| ![Screenshot 1](client/public/assets/screenshots/1.png) | ![Screenshot 2](client/public/assets/screenshots/2.png) |
-| ![Screenshot 3](client/public/assets/screenshots/3.png) | ![Screenshot 4](client/public/assets/screenshots/4.png) |
-| ![Screenshot 5](client/public/assets/screenshots/5.png) | ![Screenshot 6](client/public/assets/screenshots/6.png) |
-
-### Demo Video
-
-<video controls width="720">
-  <source src="client/public/assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag. Watch on <a href="https://drive.google.com/file/d/1w3uBRfzOn94fN0ivLDVLnMzzbwv9gEEh/view?usp=drive_link">YouTube</a>.
-</video>
-```
 
 
 
